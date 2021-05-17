@@ -1,0 +1,2 @@
+def PuppiesPage():
+    return None
